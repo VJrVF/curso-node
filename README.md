@@ -1,5 +1,5 @@
 # NOTAS
-
+```
 Options:
       --help          Show help                                        [boolean]
       --version       Show version number                              [boolean]
@@ -7,3 +7,4 @@ Options:
   -l, --listar        Muestra la lista de la tabla de multiplicar
                                            [boolean] [required] [default: false]
       --li, --limite  Muestra el limite                      [number] [required]
+```
